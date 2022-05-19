@@ -1,6 +1,9 @@
 import pygame
 from pygame.sprite import Sprite
 
+"""
+add some changes and push file to github
+"""
 class Alien(Sprite):
 
     def __init__(self, ai_game):
